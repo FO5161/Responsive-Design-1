@@ -1,0 +1,14 @@
+#Head{
+    background-color: deeppink;
+}
+
+#Body{
+
+    background-color: deeppink;
+}
+
+h1, p{
+    font-weight: bold;
+    font-family: calibri;
+    color: yellow;
+}
